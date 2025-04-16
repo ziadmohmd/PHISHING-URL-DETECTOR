@@ -104,12 +104,8 @@ Then open `http://127.0.0.1:5000/` in your browser.
 
 ## 👨‍💻 Author
 
-**Ziyad Mohd**  
-🧠 Cybersecurity & Machine Learning Enthusiast  
+**MOHAMMED SIYAD**  
+🧠 Machine Learning Enthusiast  
 🔗 [GitHub](https://github.com/your-username) | 📧 [your-email@example.com]
 
 ---
-
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
