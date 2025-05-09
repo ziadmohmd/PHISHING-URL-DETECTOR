@@ -8,7 +8,7 @@ A Machine Learning-based web application that detects whether a given URL is **p
 
 - ✅ Detects phishing URLs based on structure and features
 - 🔠 LSTM-based sequence analysis of raw URLs (optional)
-- 🌐 Web interface built with HTML, Bootstrap 5, and JavaScript
+- 🌐 Web interface built with HTML
 - 🌗 Dark mode toggle and animated result display
 - 🔁 Real-time prediction through Flask backend
 
