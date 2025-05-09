@@ -41,12 +41,7 @@ Phishing-URL-Detector/
 
 ## ⚙️ Setup Instructions
 
-### 1. 🔽 Clone the Repository
 
-```bash
-git clone https://github.com/your-username/phishing-url-detector.git
-cd phishing-url-detector
-```
 
 ### 2. 🧪 Create Virtual Environment
 
