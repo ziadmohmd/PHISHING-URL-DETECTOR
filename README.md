@@ -101,6 +101,6 @@ Then open `http://127.0.0.1:5000/` in your browser.
 
 **MOHAMMED SIYAD**  
 🧠 Machine Learning Enthusiast  
-🔗 [GitHub](https://github.com/your-username) | 📧 [your-email@example.com]
+
 
 ---
